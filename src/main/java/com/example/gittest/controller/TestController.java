@@ -11,6 +11,7 @@ public class TestController {
     public String hello(){
         System.out.print("test");
         System.out.println("模拟冲突aaa");
+        System.out.println("我是github冲突2");
         return "hello gitHub123";
     }
 }
