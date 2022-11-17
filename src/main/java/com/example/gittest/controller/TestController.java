@@ -10,6 +10,7 @@ public class TestController {
     @RequestMapping("/hello")
     public String hello(){
         System.out.print("test");
+        System.out.println("branch commit");
         return "hello gitHub123";
     }
 }
