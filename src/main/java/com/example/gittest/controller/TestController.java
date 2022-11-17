@@ -11,6 +11,7 @@ public class TestController {
     public String hello(){
         System.out.print("test");
         System.out.println("branch commit");
+        System.out.println("分支代码提交");
         return "hello gitHub123";
     }
 }
