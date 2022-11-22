@@ -12,6 +12,7 @@ public class TestController {
         System.out.print("test");
         System.out.println("branch commit");
         System.out.println("i am branch1");
+	System.out.println("fen zhi");
         return "hello gitHub123";
     }
 }
